@@ -16,6 +16,6 @@ tests for them.
 
 ## Stack
 
-**Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
-**AI:** LangChain, Gemini / OpenAI APIs, Qdrant, sentence-transformers, RAG, MCP
-**Testing:** pytest, httpx, Playwright, GitHub Actions
+- **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
+- **AI:** LangChain, Gemini / OpenAI APIs, Qdrant, sentence-transformers, RAG, MCP
+- **Testing:** pytest, httpx, Playwright, GitHub Actions
